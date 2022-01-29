@@ -2,9 +2,6 @@
 This repository contains the leetcode note of Austin Sun
 
 
-
-### Leetcode 
-
 #### Facebook
 
 ##### 67. Add Binary
